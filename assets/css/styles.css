@@ -294,14 +294,14 @@ img {
   font-size: var(--biggest-font-size);
   font-weight: var(--font-bold);
   margin-bottom: var(--mb-2);
-  color: black;
+  color: #808080;
   font-size:  40px;
 }
 .home_title2 {
   font-size: var(--biggest-font-size);
   font-weight: var(--font-bold);
   margin-bottom: var(--mb-2);
-  color: black;
+  color: #808080;
   font-size:  30px;
 }
 .home_title b {
