@@ -297,7 +297,13 @@ img {
   color: black;
   font-size:  40px;
 }
-
+.home_title2 {
+  font-size: var(--biggest-font-size);
+  font-weight: var(--font-bold);
+  margin-bottom: var(--mb-2);
+  color: black;
+  font-size:  30px;
+}
 .home_title b {
   color: var(--first-color);
 }
