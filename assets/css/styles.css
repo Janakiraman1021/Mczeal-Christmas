@@ -7,8 +7,8 @@
 
   /*========== Colors ==========*/
   --first-color: #018dd2;
-  --first-color-alt: #c42130;
-  --first-color-send: #de3b49;
+  --first-color-alt: #018dd2;
+  --first-color-send: #018dd2;
   --title-color: #161212;
   --text-color: #5b5757;
   --text-color-light: #8f8a8a;
@@ -209,6 +209,7 @@ img {
   color: var(--title-color);
   margin: 0;
   font-weight: var(--font-semi-bold);
+  align-items: center;
 }
 
 .nav_logo:hover {
